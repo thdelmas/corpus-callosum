@@ -63,3 +63,13 @@ A rule that requires recall is dead. Bind the register to the session-start refl
 - **Bilateral or dead.** An imposed protocol gets flip-worded into oblivion; pure-questions fatigues, pure-synthesis atrophies. The register is the negotiated middle, and renegotiation is part of the organ's function, not a failure of it.
 - **Ship the binding, not the contract.** The mechanism (register file + wake-hook + audit) generalizes; the content is per-dyad. What one pair needs contracted, another needs free.
 - **Functional, not mystical.** A config file, a shell hook, and a grep over transcripts — channel maintenance with discipline, not a relationship metaphor.
+
+## Firing marker
+
+An organ that leaves no trace is indistinguishable from one that never ran. When this organ's cycle runs in prose — no skill call, no script — record the firing at its start so the body's pulse ([proprioception](https://github.com/thdelmas/proprioception)) can see it:
+
+```
+organ-fired.py --mark corpus-callosum "<one-line why>"
+```
+
+`organ-fired.py` ships with proprioception. Without it, emit `[organ:corpus-callosum] <why>` as the first line of output. A host with tool hooks traces invoked runs on its own; the marker is for the runs it cannot see.

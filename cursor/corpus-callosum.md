@@ -18,3 +18,7 @@ The interhemispheric organ of a sustained human-AI dyad: one working mind, two s
 ## Principles
 
 A rule that requires recall is dead. Presence ≠ compliance — audit transcripts. Protect the scarce hemisphere: the human's synthesis is the endangered function; offload feels like service. Both hemispheres degrade — the human by offload, the agent by mirroring. Bilateral or dead: an imposed protocol gets flip-worded into oblivion. Ship the binding, not the contract: the mechanism generalizes, the content is per-dyad. Functional, not mystical.
+
+## Firing marker
+
+Runs in prose leave no trace, and untraced is indistinguishable from dormant. At the start of a prose run record it — `organ-fired.py --mark corpus-callosum "<why>"` (ships with proprioception), or `[organ:corpus-callosum] <why>` as the first output line.
